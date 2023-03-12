@@ -87,4 +87,4 @@ extension ViewController: UITableViewDelegate, UITableViewDataSource {
 
 Credits 🙌
 
-The Tec-UIKit-FinalProject was created by Javier Canto Hernández as the final project for the Mobile Development class @ Tecnológico de Monterrey Campus Puebla.
+The Tec-UIKit-FinalProject was created by Javier Canto as the final project for the Mobile Development class @ Tecnológico de Monterrey Campus Puebla.
